@@ -1,0 +1,32 @@
+.one{
+	color: #F17026 ;
+}
+.card{
+	border: 1px solid red;
+    text-align: center;
+	width: 20rem;
+	
+	border-radius:10px;
+	border-width: 5px;
+	background-color: #b3cccc;
+}
+.left{
+
+}
+ .right { 
+	border: 1px solid red;
+    width: 75%;
+	margin-left: 1%;
+	
+	border-radius:10px;
+	border-width: 5px;
+	background-color:#ff80ff;}
+
+.card img {
+	width: 50%
+
+}
+.parent{
+	display: flex;
+	
+}
